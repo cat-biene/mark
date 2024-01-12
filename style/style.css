@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #38ADA9;
+    padding-top: 147px;
+    padding-left: 166px;
+    width: 1368px;
+    height: 982px;
+}
+
+.page{
+    background-color: #079992;
+    border-radius: 20px;
+    border: 1px solid #000000;
+    padding-top: 33px;
+    padding-left: 54px;
+    width: 1037px;
+    height: 688px;
+}
+
+.page img{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-bottom: 30px;
+}
+
+.page h1{
+    width: 776px;
+    height: 43px;
+    margin-bottom: 45px;
+}
+
+.page p{width: 902px;
+    height: 151px;
+    margin-bottom: 40px;
+}
+
+.page .moments h2{
+    width: 498px;
+    height: 31px;
+    margin-bottom: 30px;
+}
+
+.page .moments a{
+    height: 42px;
+    padding: 5px 20px;
+    background-color: blue;
+    margin: 0 15px;
+    color:  yellow;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.page .moments-list{
+    margin-left: -15px;
+}
